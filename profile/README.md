@@ -7,4 +7,14 @@ Please contact [insyri](https://github.com/insyri/) through Discord by joining t
 
 Email address pending.
 
-https://wiki.strafes.net/
+#### Relevant hotlinks
+##### StrafesNET
+
+- https://wiki.strafes.net/
+- https://discord.gg/Fw8E75X
+
+##### Other
+
+- https://github.com/rsource-open-source/
+- https://github.com/insyri/
+- https://discord.gg/2uFfQ3WYNX
