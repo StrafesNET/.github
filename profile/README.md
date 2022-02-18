@@ -3,9 +3,10 @@ This is a placeholder organization, meant to be a reservation for the StrafesNET
 
 To both the StrafesNET developers and outside users who want this organization or GitHub username:
 
-Please contact [insyri](https://github.com/insyri/) through Discord by joining the [rsource community](https://discord.gg/2uFfQ3WYNX) Discord server and direct messaging `insyri#7314`.
+### Contact
 
-Email address pending.
+- Discord: join the [rsource community](https://discord.gg/2uFfQ3WYNX) Discord server and direct message `insyri#7314`
+- Email: contact@rsource.community
 
 #### Relevant hotlinks
 ##### StrafesNET
