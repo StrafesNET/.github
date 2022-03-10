@@ -5,7 +5,7 @@ To both the StrafesNET developers and outside users who want this organization o
 
 ### Contact
 
-- Discord: join the [rsource community](https://discord.gg/2uFfQ3WYNX) Discord server and direct message `insyri#7314`
+- Discord: join the [rsource community](https://rsource.community/discord) Discord server and direct message `insyri#7314`
 - Email: contact@rsource.community
 
 #### Relevant hotlinks
@@ -16,6 +16,6 @@ To both the StrafesNET developers and outside users who want this organization o
 
 ##### Other
 
-- https://github.com/rsource-open-source/
+- https://rsource.community/github
 - https://github.com/insyri/
-- https://discord.gg/2uFfQ3WYNX
+- https://rsource.community/discord
