@@ -1,1 +1,1 @@
-This GitHub organization is unofficial and not affiliated with the StrafesNET development team. This is a GitHub mirror organization of https://git.itzana.me/StrafesNET/.
+This is the official StrafesNET organization hosting public development. Additional code can be found at https://git.itzana.me/StrafesNET/.
